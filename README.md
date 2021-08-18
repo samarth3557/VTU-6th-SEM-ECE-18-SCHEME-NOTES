@@ -1,2 +1,2 @@
-# VTU-6thSEM-ECE-18-scheme-NOTES
+# VTU 6thSEM ECE 18-SCHEME NOTES
 Each and every notes related to VTU 6th semester ECE 18-Scheme notes are available.
