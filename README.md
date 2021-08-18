@@ -4,19 +4,19 @@
 In this repository, I'm going to share all the notes according to the #VTU syllabus of #18-SCHEME for #6th_SEMESTER | #ECE_department.
 
 # Subject List for 6th_SEMESTER
-#### Digital_communication
-#### Embedded_systemms
-#### Microwave and #Antennas 
+####   1. Digital_communication
+####   2. Embedded_systemms
+####   3. Microwave and #Antennas 
 
 ## Professional Electives :
-#### Artificial_Neural_Network,
-#### Python_Programming,
+####   1. Artificial_Neural_Network,
+####   2. Python_Programming,
 
 ## Open Electives : 
-#### Programming In JAVA
-#### Introduction to Operation_system, 
-#### Sensor and #SignalConditioning
-#### Machine-Learning
+####   1. Programming In JAVA
+####   2. Introduction to Operation_system, 
+####   3. Sensor and #SignalConditioning
+####   4. Machine-Learning
 
 ### electronics_communication,
 ### visvesvarayatechnologicalUniversity,
